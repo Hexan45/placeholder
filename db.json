@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "username": "User1234",
+        "email": "User1234@gmail.com"
+    },
+    {
+        "id": 2,
+        "username": "Skywalker89",
+        "email": "Skywalker89@gmail.com"
+    },
+    {
+        "id": 3,
+        "username": "TechGuru77",
+        "email": "TechGuru77@gmail.com"
+    },
+    {
+        "id": 4,
+        "username": "GamerXtreme",
+        "email": "GamerXtreme@gmail.com"
+    },
+    {
+        "id": 5,
+        "username": "NatureLover88",
+        "email": "NatureLover88@gmail.com"
+    },
+    {
+        "id": 6,
+        "username": "MusicFanatic",
+        "email": "MusicFanatic@gmail.com"
+    },
+    {
+        "id": 7,
+        "username": "BookWorm99",
+        "email": "BookWorm99@gmail.com"
+    },
+    {
+        "id": 8,
+        "username": "TravelBug22",
+        "email": "TravelBug22@gmail.com"
+    },
+    {
+        "id": 9,
+        "username": "FoodieDelight",
+        "email": "FoodieDelight@gmail.com"
+    },
+    {
+        "id": 10,
+        "username": "ArtisticSoul",
+        "email": "ArtisticSoul@gmail.com"
+    },
+    {
+        "id": 11,
+        "username": "FitnessFreak01",
+        "email": "FitnessFreak01@gmail.com"
+    },
+    {
+        "id": 12,
+        "username": "HistoryBuff44",
+        "email": "HistoryBuff44@gmail.com"
+    },
+    {
+        "id": 13,
+        "username": "CodeMaster99",
+        "email": "CodeMaster99@gmail.com"
+    },
+    {
+        "id": 14,
+        "username": "MovieCritic77",
+        "email": "MovieCritic77@gmail.com"
+    },
+    {
+        "id": 15,
+        "username": "Fashionista88",
+        "email": "Fashionista88@gmail.com"
+    },
+    {
+        "id": 16,
+        "username": "ScienceNerd12",
+        "email": "ScienceNerd12@gmail.com"
+    },
+    {
+        "id": 17,
+        "username": "PetLover45",
+        "email": "PetLover45@gmail.com"
+    },
+    {
+        "id": 18,
+        "username": "AdventureSeeker",
+        "email": "AdventureSeeker@gmail.com"
+    },
+    {
+        "id": 19,
+        "username": "CraftyHands34",
+        "email": "CraftyHands34@gmail.com"
+    },
+    {
+        "id": 20,
+        "username": "DigitalNomad88",
+        "email": "DigitalNomad88@gmail.com"
+    }
+]
